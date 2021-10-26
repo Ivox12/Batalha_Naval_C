@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
 #include <stdbool.h>
 
 int sorteio (){
@@ -73,7 +72,7 @@ char tabul_10[10][10]={
     };
 
     system ("cls");
-    printf ("\n\t\t      같BATALHA NAVAL같 \n");
+    printf ("\n\t\t      째째BATALHA NAVAL째째 \n");
     printf ("\n\t.-------------------------------------------.");
     printf ("\n\t| X | A | B | C | D | E | F | G | H | I | J | ");
     printf ("\n\t|---|---|---|---|---|---|---|---|---|---|---|");
@@ -119,7 +118,7 @@ char tabul_15[15][15]={
     };
 
     system ("cls");
-    printf ("\n\t\t\t\t같BATALHA NAVAL같 \n");
+    printf ("\n\t\t\t\t째째BATALHA NAVAL째째 \n");
     printf ("\n\t.---------------------------------------------------------------.");
     printf ("\n\t| X | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | ");
     printf ("\n\t|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|");
