@@ -119,11 +119,11 @@ int menu (char escolha){
         case '1':
 
             sorteio();
-            printf("cu1");
+           
             tabuleiro_10x10();
-            printf("cu2");
+        
             //navio_10();
-            printf ("cu menu");
+           
             navioCPU_10();
             printf ("EU NAO AGUENTO MAAAAIS");
             tiro_10();
